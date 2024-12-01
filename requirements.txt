@@ -1,7 +1,7 @@
 langgraph 
 langsmith  
 langchain 
-langchain_groq l
+langchain_groq
 angchain_community 
 arxiv 
 wikipedia
